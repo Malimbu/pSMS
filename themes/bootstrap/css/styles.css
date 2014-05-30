@@ -1,0 +1,40 @@
+
+
+
+
+body {
+	background-image: url("body.jpg");
+	padding-bottom: 15px;
+}
+
+#page {
+	background-color: #FFFFFF;
+    
+    border: 1px solid #a5acb5;
+    
+    padding: 50px 15px 0px 15px;
+	-webkit-box-shadow: #000000 0px 0px 10px;
+	-moz-box-shadow: #000000 0px 0px 10px;
+	box-shadow: #000000 0px 0px 10px;
+	background: #FFF;
+	behavior: url(/PIE.htc);    
+}
+
+
+
+
+#footer {
+	margin : 10px -15px 0px -15px;
+	padding: 5px 5px 5px 5px;	
+	font-size: 0.8em;
+	text-align: center;	
+  	background-color:#2C5463;
+  	color:#FFFFFF;
+  	clear:both;
+  /*+*/
+  background-image: -webkit-linear-gradient(top, #2c5463, #162b33);
+  background-image:    -moz-linear-gradient(top, #2c5463, #162b33);
+  background-image:     -ms-linear-gradient(top, #2c5463, #162b33);
+  background-image:      -o-linear-gradient(top, #2c5463, #162b33);
+  		
+}
