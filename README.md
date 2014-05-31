@@ -21,6 +21,7 @@ Fitur SMS Gateway :
  4. dll.
 
 berikut referensu Link smsgateway :
+  - http://wammu.eu/gammu/
   - http://achedy.blogspot.com/2011/10/membuat-sms-gateway-dengan-gammu-dan.html
   - http://ikhwaniril.blogspot.com/2013/02/beberapa-cara-mengirimkan-sms-lewat.html
   
