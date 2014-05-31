@@ -15,6 +15,10 @@ Cara Penggunaan :
  5. Untuk Pengguna Windows : Download Library Gammu pada link : https://www.dropbox.com/s/ybuoo587zftol35/gammu.7z
  6. Untuk Pengguna Linux : tiggal gunakan repository => #sudo apt-get install gammu
 
+ Username : admin
+ Password : admin
+ 
+ 
 Fitur SMS Gateway :
  1. Support Pegiriman pesan ke semua group atau hanya group tertentu
  2. Flash sms merupakan pesan singkat dimana ketika pesan tersebut sudah dibaca tidak akan tersimpan pada inbox 
