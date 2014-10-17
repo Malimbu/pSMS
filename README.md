@@ -5,7 +5,6 @@ Patikala SMS (pSMS) merupakan Aplikasi layanan pesan singkat (sms) yang diperunt
 
 Smsgateway ini saya persembahkan spesial pada teman-teman Group Yii Framework,
 terima kasih banyak kepada semua rekan goup Yii framework yg telah membantu selama ini dalam belajar Yii Framework
-(Peter Jack kambey, Sabit hurairah, Aswandi Pannaco... thank's)
 
 Cara Penggunaan :
  1. Download master pSMS dan tempatkan pada folder root web-server
